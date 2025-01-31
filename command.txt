@@ -1,0 +1,3 @@
+pip freeze | findstr /V "file://" > requirements.txt
+
+pip list --format=freeze > requirements.txt
