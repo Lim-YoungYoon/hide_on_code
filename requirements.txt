@@ -52,7 +52,7 @@ PyScreeze==1.0.1
 python-dateutil==2.9.0.post0
 pytweening==1.2.0
 pytz==2024.2
-pywin32==305.1
+pywin32==306
 pyzmq==26.2.0
 referencing==0.36.2
 rpds-py==0.22.3
