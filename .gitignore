@@ -3,3 +3,4 @@ cats_and_dogs_filtered/
 cats_and_dogs_filtered.zip
 test.ipynb
 data/
+*.pth
